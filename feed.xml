@@ -29,5 +29,31 @@
           <geo:long>-1.485837800</geo:long>
      </item>
 
+     <item>
+          <title>Joseph Wright: Life on Paper</title>
+          <description>An exhibition exploring the life and work of one of Britain’s best loved artists.</description>
+          <content:encoded>
+          <![CDATA[ <p><img src="https://www.visitderby.co.uk/application/files/7717/4772/8240/Josepgh_Wright_Vesuvius_in_Eruption.jpg" alt="Joseph Wright: Life on Paper" /></p> ]]>
+          </content:encoded>
+          <location>
+          Venue Name: Derby Museum & Art Gallery
+          <br/>
+          Street: The Strand
+          <br/>
+          City: Derby
+          <br/>
+          County:
+          <br/>
+          Postcode: DE1 1BS
+          </location>
+          <link>https://www.visitderby.co.uk/events/joseph-wright-life-on-paper</link>
+          <guid isPermaLink="true">https://www.visitderby.co.uk/events/joseph-wright-life-on-paper</guid>
+          <pubDate>Tue, 20 May 2025 09:03:26 +0100</pubDate>
+          <startDate>Thu, 14 Aug 25 12:08:43 +0100</startDate>
+          <endDate>Thu, 14 Aug 25 12:08:43 +0100</endDate>
+          <geo:lat>52.922944169</geo:lat>
+          <geo:long>-1.480169861</geo:long>
+     </item>
+
   </channel>
 </rss>
