@@ -3,30 +3,31 @@
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
      version="2.0">
   <channel>
-    <title>Visit Derby What's On</title>
-    <description>Upcoming events from Visit Derby</description>
-    <link>https://www.visitderby.co.uk/whats-on</link>
-
     <item>
-      <title>Dracula Returns To Derby – 101 years and Counting</title>
-      <description><![CDATA[Explore 100 years of Dracula in Derby - rare items from Stoker, The Dracula Society & Hammer. A must for vampire fans!]]></description>
-      <content:encoded><![CDATA[
-        <p><img src="https://www.visitderby.co.uk/application/files/9117/4652/5976/Dracula_in_fornt_of_the_Old_Bell_Hotel_Derby.jpg" alt="Dracula" /></p>
-      ]]></content:encoded>
-      <location><![CDATA[
-        Venue Name: Pickford's House<br/>
-        Street: 41 Friar Gate<br/>
-        City: Derby<br/>
-        Postcode: DE1 1DA
-      ]]></location>
-      <link>https://www.visitderby.co.uk/events/dracula-returns-to-derby-101-years-and-counting</link>
-      <guid isPermaLink="true">https://www.visitderby.co.uk/events/dracula-returns-to-derby-101-years-and-counting</guid>
-      <pubDate>Tue, 06 May 2025 11:05:45 +0100</pubDate>
-      <startDate>Thu, 07 Aug 25 09:42:45 +0100</startDate>
-      <endDate>Thu, 07 Aug 25 09:42:45 +0100</endDate>
-      <geo:lat>52.9243495</geo:lat>
-      <geo:long>-1.4858378</geo:long>
-    </item>
+          <title>Dracula Returns To Derby – 101 years and Counting</title>
+          <description>Explore 100 years of Dracula in Derby - rare items from Stoker, The Dracula Society & Hammer. A must for vampire fans!</description>
+          <content:encoded>
+          <![CDATA[ <p><img src="https://www.visitderby.co.uk/application/files/9117/4652/5976/Dracula_in_fornt_of_the_Old_Bell_Hotel_Derby.jpg" alt="Dracula Returns To Derby – 101 years and Counting" /></p> ]]>
+          </content:encoded>
+          <location>
+          Venue Name: Pickford's House
+          <br/>
+          Street: 41 Friar Gate
+          <br/>
+          City: Derby
+          <br/>
+          County:
+          <br/>
+          Postcode: DE1 1DA
+          </location>
+          <link>https://www.visitderby.co.uk/events/dracula-returns-to-derby-101-years-and-counting</link>
+          <guid isPermaLink="true">https://www.visitderby.co.uk/events/dracula-returns-to-derby-101-years-and-counting</guid>
+          <pubDate>Tue, 06 May 2025 11:05:45 +0100</pubDate>
+          <startDate>Thu, 14 Aug 25 12:08:43 +0100</startDate>
+          <endDate>Thu, 14 Aug 25 12:08:43 +0100</endDate>
+          <geo:lat>52.9243495</geo:lat>
+          <geo:long>-1.485837800</geo:long>
+     </item>
 
   </channel>
 </rss>
